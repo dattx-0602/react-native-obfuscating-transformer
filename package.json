@@ -26,7 +26,6 @@
   },
   "scripts": {
     "build": "rm -rf dist && tsc",
-    "precommit": "tsc && lint-staged",
     "test": "jest"
   },
   "typings": "dist/index.d.ts",
