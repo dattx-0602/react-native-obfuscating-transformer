@@ -30,11 +30,6 @@
     "test": "jest"
   },
   "typings": "dist/index.d.ts",
-  "lint-staged": {
-    "**/*.ts": [
-      "prettier --no-semi --trailing-comma all"
-    ]
-  },
   "devDependencies": {
     "@types/jest": "^22.0.1",
     "babel-preset-react-native": "^1.9.1",
