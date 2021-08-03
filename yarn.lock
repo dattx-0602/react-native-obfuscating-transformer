@@ -4530,7 +4530,7 @@ istanbul-reports@^1.5.1:
   dependencies:
     handlebars "^4.0.3"
 
-javascript-obfuscator@^2.6.0:
+javascript-obfuscator@^2.18.1:
   version "2.18.1"
   resolved "https://registry.yarnpkg.com/javascript-obfuscator/-/javascript-obfuscator-2.18.1.tgz#190eea853b5c75fd2a4b0c28f41ddabc8b61c617"
   integrity sha512-MVCheaQmsDL2Gut/LC3oucJOBkff2ynxKaxpQhhObZTtqtV+nEAI2FN5p4C0i6XK073ZMf6TjyAHt5I+O6nNqQ==
